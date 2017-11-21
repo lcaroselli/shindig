@@ -2,7 +2,7 @@
 
 Are you ever looking to kill some time and think, "I wonder whats going on around me?" Enter Shindig. An application that displays all events around your current location based on your personal preferences.
 
-![Shindig Screenshot](/src/assets/shot1.png?raw=true "Shindig Screenshot 1")
+![Shindig Screenshot](/src/assets/Shot1.png?raw=true "Shindig Screenshot 1")
 
 <hr />
 
